@@ -1,0 +1,12 @@
+[submodule "ingolstadt"]
+	path = ingolstadt
+  url = git@github.com:byte-bayern/open-bydata-lod-usecase-ingolstadt.git
+  branch = main
+[submodule "libraries"]
+	path = libraries
+  url = git@github.com:byte-bayern/open-bydata-lod-usecase-libraries.git
+  branch = main
+[submodule "family-spots"]
+	path = family-spots
+  url = git@github.com:byte-bayern/open-bydata-lod-usecase-family-spots.git
+  branch = main
