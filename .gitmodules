@@ -1,12 +1,12 @@
 [submodule "ingolstadt"]
-	path = ingolstadt
+	path = usecase-1-ingolstadt
   url = git@github.com:byte-bayern/open-bydata-lod-usecase-ingolstadt.git
   branch = main
 [submodule "libraries"]
-	path = libraries
+	path = usecase-2-libraries
   url = git@github.com:byte-bayern/open-bydata-lod-usecase-libraries.git
   branch = main
 [submodule "family-spots"]
-	path = family-spots
+	path = usecase-3-family-spots
   url = git@github.com:byte-bayern/open-bydata-lod-usecase-family-spots.git
   branch = main
