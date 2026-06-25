@@ -13,3 +13,7 @@ Anhand dieser konkreten Use Cases wird deutlich, dass der größte Aufwand bei d
 - **Anwendungsfall 3:** Familienfreundliches München – Spielplätze mit nahegelegenen Toiletten und Cafés
 
 > **Hinweis:** Die Anwendungsfälle wurden im Dezember 2025 erarbeitet. Mögliche Aktualisierungen an den Roh- und Metadaten der damals verwendeten Datensätze können die Nachvollziehbarkeit beeinträchtigen.
+
+### Weitere Ressourcen:
+- [openCode-Gruppe des open bydata competence center](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center)
+- [Semantic Enrichment Engine-Repo auf openCode](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center/sandbox/semantic-enrichment-engine)
