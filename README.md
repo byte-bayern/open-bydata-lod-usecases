@@ -1,4 +1,4 @@
-# Use Case: Linked Open Data
+# Use Cases: Linked Open Data
 
 Als Open Data Portal, das die Metadaten automatisch im Tripel-Format in einer Graphendatenbank speichert, ist das Thema Linked Open Data (LOD) Teil unseres Konzeptes. Gute zwei Jahre nach dem erfolgreichen Start des Portals [open.bydata.de](https://open.bydata.de) in 2023 wollten wir also einen praktischen Blick auf das LOD-Potenzial werfen.
 
